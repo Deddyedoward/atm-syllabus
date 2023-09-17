@@ -1,0 +1,1 @@
+[{"date":"2023-09-17T07:35:56.092Z","amount":"5000","type":"deposit","balance":5000,"status":"success"},{"date":"2023-09-17T07:36:05.930Z","amount":"1000","type":"withdraw","balance":4000,"status":"success"},{"date":"2023-09-17T07:37:20.556Z","amount":"1000","type":"transfer","accountNumber":"010.000.000.00","balance":3000,"status":"success"}]
